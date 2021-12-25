@@ -1,0 +1,34 @@
+#container{
+    width: 500px;
+    margin: auto;
+}
+
+table {
+    font-family:Arial;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.singleBlock{
+    width:50%;
+    float: left;
+    height:300px;
+    display:inline;
+}
+.title {
+    width:200px;
+    height:50px;
+    background-color:#e13737;
+    color:white;
+    text-align:center;
+    margin-top: 30px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    line-height: 50px;
+    }
+
+
+table.listitems2 {
+	 width:200px;
+    margin: auto;
+    display: inline-block;
+}
